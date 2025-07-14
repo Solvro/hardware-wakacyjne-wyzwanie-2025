@@ -1,4 +1,4 @@
-# 🔧 Wakacyjne Wyzwanie – Ścieżka Hardware 2025
+# 🔧 Wakacyjne Wyzwanie 2025 – Od zera do Hardware Developera
 
 > Realizowane w ramach Strategicznego Koła Naukowego **Solvro** przy Politechnice Wrocławskiej  
 
