@@ -40,7 +40,8 @@ Kurs został zaprojektowany z myślą o osobach, które chcą wyjść poza świa
 - **Koordynator kursu**: Michał Bocian  
   - Przewodniczący Sekcji Hardware, SKN Solvro  
 - **Opiekun ekspercki (konsultacje)**: dr inż. Krzysztof Chudzik
-  - Doświadczony, wieloletni inżynier branży Embedded & Hardware, prowadzący kursu IoT na kierunku Informatyki Stosowanej Politechniki Wrocławskiej
+  - Doświadczony, wieloletni inżynier branży Embedded & Hardware
+  - Prowadzący kursu IoT na kierunku Informatyki Stosowanej Politechniki Wrocławskiej
 
 ---
 
