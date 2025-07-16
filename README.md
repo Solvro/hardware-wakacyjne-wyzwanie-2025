@@ -27,7 +27,9 @@ Kurs został zaprojektowany z myślą o osobach, które chcą wyjść poza świa
    - Praca z mikrokontrolerami
 
 3. **Modelowanie 3D**
-   - Soon 👀
+   - Obsługa programu do modelowania 3D
+   - Obsługa slicera oraz dobór parametrów do druku 3D
+   - Dobór materiałów i narzędzi do druku 3D
 
 ### 🔹 Część stacjonarna *(w trakcie uzgodnień)*
 
@@ -37,13 +39,14 @@ Kurs został zaprojektowany z myślą o osobach, które chcą wyjść poza świa
 
 - **Koordynator kursu**: Michał Bocian  
   Przewodniczący Sekcji Hardware, SKN Solvro  
-- **Opiekun ekspercki (konsultacje)**: *(w trakcie uzgodnień)*
+- **Opiekun ekspercki (konsultacje)**: dr inż. Krzysztof Chudzik
+  Doświadczony, wieloletni inżynier branży Embedded & Hardware, prowadzący kursu IoT na kierunku Informatyki Stosowanej Politechniki Wrocławskiej
 
 ---
 
 ## 📄 Certyfikacja
 
-Uczestnicy, którzy ukończą kurs i zrealizują projekt, otrzymają **certyfikat** podpisany przez koordynatora kursu.
+Uczestnicy, którzy ukończą kurs i zrealizują projekt, otrzymają **certyfikat** podpisany przez eksperta oraz koordynatora kursu.
 
 
 ---
