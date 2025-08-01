@@ -47,7 +47,7 @@ Kurs został zaprojektowany z myślą o osobach, które chcą wyjść poza świa
 
 ## 📄 Certyfikacja
 
-Uczestnicy, którzy ukończą kurs i zrealizują projekt, otrzymają **certyfikat** podpisany przez eksperta oraz koordynatora kursu.
+Uczestnicy, którzy ukończą kurs i zrealizują projekt, otrzymają **certyfikat** podpisany przez koordynatora kursu.
 
 
 ---
