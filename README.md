@@ -12,27 +12,34 @@ Kurs został zaprojektowany z myślą o osobach, które chcą wyjść poza świa
 
 ## 📚 Program kursu 
 
-> Przed oficjalnym rozpoczęciem kursu mogą nastąpić nieznaczne zmiany w programie
- 
-### 🔹 Część zdalna (interaktywne wykłady)
+__ 🌐 Zdalnie:__
 
-1. **Wprowadzenie do hardware**
-   - Logika i prąd w systemach cyfrowych
-   - Bramka, przerzutniki, pamięci
-   - Synchroniczność i przetwarzanie szeregowe vs równoległe
+**1.** 🔧: *Podstawowe elementy analogowe układów elektronicznych i ich wykorzystanie*  
 
-2. **Tworzenie hardware’u**
-   - Dobór komponentów
-   - Projektowanie prostych kontrolerów
-   - Praca z mikrokontrolerami
+**2.** 💡: *Podstawowe elementy cyfrowych układów elektronicznych i ich wykorzystanie*  
 
-3. **Modelowanie 3D**
-   - Obsługa programu do modelowania 3D
-   - Obsługa slicera oraz dobór parametrów do druku 3D
-   - Dobór materiałów i narzędzi do druku 3D
+**3.**
+- ⚙️: *Budowanie schematu i uproszczenie z mikrokontrolerami*  
+  - Arduino Uno R3 — podstawy działania  
+  - rola mikrokontrolera  
+  - czemu przycisk idzie między GND a wejście z pull-upem i co to w ogóle znaczy?  
+  - wejścia/wyjścia, PWM, ADC  
+  - gotowy programator atmega16u4 – jak to działa?  
 
-### 🔹 Część stacjonarna *(w trakcie uzgodnień)*
+- 🧪: *Prezentacja sprzętu pomiarowego i warsztatowego*  
 
+**4.** 🧰 *Budowa i symulacja układu prototypowego w środowisku Tinkercad*  
+
+**5.** 🖋️ *Rysowanie schematów i projektowanie płytek PCB układów elektronicznych w KiCadzie*  
+
+**6.** 🖨️ *Druk 3D — podstawy modelowania i przygotowania do druku*  
+
+
+__ 👨‍🔧 Stacjonarnie:__
+
+**7. ** 🔩 *Montaż prototypowego układu projektu*  
+
+**8. ** 💾 *Zaprogramowanie elektronicznego układu prototypowego*  
 ---
 
 ## 👨‍🏫 Opieka merytoryczna
