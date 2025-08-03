@@ -40,6 +40,8 @@ Kurs został zaprojektowany z myślą o osobach, które chcą wyjść poza świa
 **7.** 🔩 *Montaż prototypowego układu projektu*  
 
 **8.** 💾 *Zaprogramowanie elektronicznego układu prototypowego*  
+
+
 ---
 
 ## 👨‍🏫 Opieka merytoryczna
