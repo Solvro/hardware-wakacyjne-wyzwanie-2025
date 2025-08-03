@@ -12,7 +12,7 @@ Kurs został zaprojektowany z myślą o osobach, które chcą wyjść poza świa
 
 ## 📚 Program kursu 
 
-__ 🌐 Zdalnie:__
+🌐 __Zdalnie:__
 
 **1.** 🔧: *Podstawowe elementy analogowe układów elektronicznych i ich wykorzystanie*  
 
@@ -35,7 +35,7 @@ __ 🌐 Zdalnie:__
 **6.** 🖨️ *Druk 3D — podstawy modelowania i przygotowania do druku*  
 
 
-__ 👨‍🔧 Stacjonarnie:__
+👨‍🔧 __Stacjonarnie:__
 
 **7. ** 🔩 *Montaż prototypowego układu projektu*  
 
