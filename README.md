@@ -37,9 +37,9 @@ Kurs został zaprojektowany z myślą o osobach, które chcą wyjść poza świa
 
 👨‍🔧 __Stacjonarnie:__
 
-**7. ** 🔩 *Montaż prototypowego układu projektu*  
+**7.** 🔩 *Montaż prototypowego układu projektu*  
 
-**8. ** 💾 *Zaprogramowanie elektronicznego układu prototypowego*  
+**8.** 💾 *Zaprogramowanie elektronicznego układu prototypowego*  
 ---
 
 ## 👨‍🏫 Opieka merytoryczna
