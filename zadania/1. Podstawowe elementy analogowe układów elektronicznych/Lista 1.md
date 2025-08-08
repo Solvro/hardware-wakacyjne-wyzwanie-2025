@@ -47,7 +47,7 @@ Zrozumieć działanie tranzystora jako przełącznika prądowego, w którym mał
 ![Zadanie 5 SMD](Zadanie%205/zadanie5_SMD.jpg)
 
 ## 6. Podłączenie mierników
-- **Zadanie**: Podłącz do układu woltomierz i amperomierz tak aby zmierzyć ile prądu i napięcia jest wykorzystywane przez OBIE diody led.
+- **Zadanie**: Podłącz do układu woltomierz i amperomierz tak aby zmierzyć ile prądu i napięcia jest wykorzystywane przez diodę led.
 - **Cel**: Wiedzieć gdzie i jak poprawnie wpiąć mierniki w obwód (równolegle/szeregowo).
 
 ![Zadanie 6](Zadanie%206/zadanie6.png)
