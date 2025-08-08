@@ -11,5 +11,5 @@ Kanał ElectroBOOM:
 Kanał Engineeringness:
 - [Jak działa cewka?](https://www.youtube.com/shorts/lXk4CQDbr4Q)
   
-Kanał Veritassium:
+Kanał Veritasium:
 - [Jak działa bateria litowo jonowa i dlaczego jest niebezpieczna?](https://www.youtube.com/watch?v=AGglJehON5g&ab_channel=Veritasium)
