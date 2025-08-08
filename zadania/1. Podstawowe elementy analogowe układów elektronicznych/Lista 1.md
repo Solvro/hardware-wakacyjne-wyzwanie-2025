@@ -23,8 +23,18 @@
 ![Zadanie 3](Zadanie%203/zadanie3.png)
 
 ## 4. Tranzystor NPN jako przełącznik
-- **Zadanie**: Podłącz tranzystor NPN do układu. Dysponujesz prądem 5V, a dioda LED wytrzyma maksymalnie 15 mA. Zaznacz gdzie podłączysz masę (GND), a gdzie 5V.
-- **Cel**: Zrozumieć jak działa tranzystor jako przełącznik.
+- **Zadanie**: Zbuduj układ z tranzystorem NPN działającym w trybie kluczowania (przełącznik). Twoim celem jest sterowanie diodą LED tak, aby świeciła tylko wtedy, gdy do bazy tranzystora podany jest odpowiedni sygnał. Dobierz rezystor bazowy R1, który zapewni wystarczający prąd bazy, by tranzystor wszedł w stan nasycenia.
+
+- **Dane do zadania**:
+  - Zasilanie: 5 V
+  - Dioda LED: max 15 mA
+  - Spadek napięcia na LED: ~2.0 V
+  - Spadek napięcia kolektor-emiter w nasyceniu: U<sub>CE(sat)</sub> ≈ 0.2 V
+  - Spadek napięcia baza-emiter: U<sub>BE</sub> ≈ 0.7 V
+  - Załóż wymagany prąd bazy: I<sub>B</sub> = 1.5 mA (dla zapewnienia nasycenia)
+
+Cel:
+Zrozumieć działanie tranzystora jako przełącznika prądowego, w którym mały prąd bazy steruje większym prądem kolektora.
 
 ![Zadanie 4](Zadanie%204/zadanie4.png)
 
