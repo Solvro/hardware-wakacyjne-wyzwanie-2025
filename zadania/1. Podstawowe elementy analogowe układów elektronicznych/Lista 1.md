@@ -23,9 +23,8 @@
 ![Zadanie 3](Zadanie%203/zadanie3.png)
 
 ## 4. Tranzystor NPN jako przełącznik
-- **Zadanie**: Podłącz tranzystor NPN do układu i dobierz rezystor bazowy. Dysponujesz prądem 5V, a dioda LED wytrzyma maksymalnie 15 mA. Zaznacz gdzie podłączysz masę (GND), a gdzie 5V.
-- **Cel**: Zrozumieć jak działa tranzystor jako przełącznik i jak dobrać RB.
-- **Przypominajka**: Pamiętaj że tranzystor może działać jak wzmacniacz, a nie chcemy spalić diody :smile:
+- **Zadanie**: Podłącz tranzystor NPN do układu. Dysponujesz prądem 5V, a dioda LED wytrzyma maksymalnie 15 mA. Zaznacz gdzie podłączysz masę (GND), a gdzie 5V.
+- **Cel**: Zrozumieć jak działa tranzystor jako przełącznik.
 
 ![Zadanie 4](Zadanie%204/zadanie4.png)
 
