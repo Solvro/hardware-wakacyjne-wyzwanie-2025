@@ -1,4 +1,4 @@
-# Zadania: Podstawowe elementy układów analogowych
+# Zadania: Podstawowe elementy analogowe układów elektronicznych
 
 ## 1. Rezystancja zastępcza
 - **Zadanie**: Oblicz rezystancję zastępczą dla kilku połączonych rezystorów (szeregowo, równolegle, mieszanie).
