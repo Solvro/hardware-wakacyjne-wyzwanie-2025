@@ -2,11 +2,12 @@
 
 ## Zadanie 1
 Zbuduj układ kombinacyjny (na poziomie bramek) wyświetlający na wyświetlaczu 7 segmentowym (jedna pozycja, 10 cyfr, no chyba, że chce Ci się również od A do F) liczbę zakodowaną w NKB (Naturalny Kod Binarny). Zapisz dla jakiego rodzaju wyświetlacza jest to enkoder (wspólna katoda/anoda).
-[!wyświetlacz_7_seg](Zadanie%201/image.png)
+![wyświetlacz_7_seg](Zadanie%201/image.png)
+![wyświetlacz_7_seg_dok](https://betlux.com/product/seven-segment-led-displays-common-anode-common-cathode-circuit.jpg)
 
 ## Zadanie 2
 Przeanalizuj przebieg czasowy podanych sygnałów. Przyjmij założenie, że dane odczytywane są na **falling_edge**. A czas ustalania sygnału jest natychmiastowy. Zapisz jakie bity zostaną odczytane po stronie odbiornika (chronologicznie)
-[!przebieg_czasowy_sygnału](Zadanie%202/image.png)
+![przebieg_czasowy_sygnału](Zadanie%202/image.png)
 
 ## Zadanie 3
 
