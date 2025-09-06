@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "zegar")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/zegar.kicad_sym")(options "")(descr ""))
+  (lib (name "TDCR1050M")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/TDCR1050M.kicad_sym")(options "")(descr ""))
+)
